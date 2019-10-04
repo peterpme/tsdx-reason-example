@@ -25,7 +25,7 @@
     "language": "typescript",
     "module": "es6",
     "importPath": "relative",
-    "exportInterfaces": false,
+    "exportInterfaces": true,
     "debug": {
       "all": false,
       "basic": false
