@@ -5,6 +5,7 @@
     "module": "esnext",
     "lib": ["dom", "esnext"],
     "importHelpers": true,
+    "allowJs": true,
     "declaration": true,
     "sourceMap": true,
     "rootDir": "./",
