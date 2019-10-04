@@ -21,9 +21,7 @@
     "react": ">=16"
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "tsdx lint"
-    }
+    "hooks": {}
   },
   "prettier": {
     "printWidth": 80,
