@@ -26,6 +26,10 @@ pids
 lib-cov
 .bsb.lock
 lib
+*.gen.tsx
+*.gen.ts
+*.gen.js
+*.gen.jsx
 
 # Coverage directory used by tools like istanbul
 coverage
